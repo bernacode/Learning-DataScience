@@ -28,16 +28,6 @@ Learn to handle numerical data efficiently and prepare for data analysis and dat
 
 ---
 
-## 📅 Progreso / Progress
-
-| Fecha      | Tema / Topic                                      | Estado / Status              |
-| ---------- | ------------------------------------------------- | ---------------------------- |
-| 2025-10-19 | Arrays básicos / Basic arrays                     | 🔄 En progreso / In progress |
-| 2025-10-22 | Operaciones matemáticas / Mathematical operations | ⏳ Por hacer / To do         |
-| ...        | ...                                               | ...                          |
-
----
-
 ## 🧩 Herramientas / Tools
 
 - Python 3.12
