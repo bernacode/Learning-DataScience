@@ -30,7 +30,7 @@ Learn to handle numerical data efficiently and prepare for data analysis and dat
 
 ## 🧩 Herramientas / Tools
 
-- Python 3.12
+- Python 3.13.9
 - NumPy
 - Jupyter Notebook / VS Code
 
