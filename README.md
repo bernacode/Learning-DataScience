@@ -1,38 +1,42 @@
-# Learning-numpy
+# 🧠 Learning Data Science Foundations
 
-Personal practice repository for learning NumPy, the core Python library for numerical computing. Contains exercises, examples, and mini-projects to improve data manipulation and analysis skills.
-
-# 🧮 Aprendiendo NumPy
-
-Este repositorio contiene mis ejercicios y prácticas personales mientras aprendo **NumPy**, la librería fundamental de Python para cálculo numérico.
-
-This repository contains my personal practice exercises while learning **NumPy**, the fundamental Python library for numerical computation.
+Personal repository for learning the core Python libraries for data science: **NumPy**, **Pandas**, and **Matplotlib**.  
+Contains exercises, notes, and mini-projects focused on improving data manipulation, analysis, and visualization skills.
 
 ---
 
-## 📚 Temas / Topics Covered
+## 📚 Aprendiendo Ciencia de Datos / Learning Data Science
 
-1. Arrays y matrices / Arrays and matrices
-2. Indexado y slicing / Indexing and slicing
-3. Operaciones matemáticas / Mathematical operations
-4. Estadística y funciones aleatorias / Statistics and random functions
-5. Mini proyectos / Mini projects
+Este repositorio contiene mis ejercicios y prácticas personales mientras aprendo las principales librerías de Python para análisis y visualización de datos.  
+This repository contains my personal practice exercises while learning the main Python libraries for data analysis and visualization.
 
 ---
 
-## 🧠 Objetivo / Goal
+## 🧩 Temas / Topics Covered
 
-Aprender a manejar datos numéricos de forma eficiente y preparar el camino hacia el análisis de datos y ciencia de datos con Python.
-
-Learn to handle numerical data efficiently and prepare for data analysis and data science with Python.
+1. **NumPy** — Cálculo numérico y manipulación de arrays
+2. **Pandas** — Análisis y manipulación de datos tabulares
+3. **Matplotlib** — Visualización de datos y gráficos
+4. **Mini proyectos** aplicando las tres librerías
 
 ---
 
-## 🧩 Herramientas / Tools
+## 🎯 Objetivo / Goal
 
-- Python 3.13.9
+Aprender a manejar datos numéricos y tabulares de forma eficiente, visualizar resultados y desarrollar una base sólida para análisis de datos y ciencia de datos.  
+Learn to efficiently handle numerical and tabular data, visualize results, and build a solid foundation for data analysis and data science.
+
+---
+
+## 🧰 Herramientas / Tools
+
+- Python 3.x
 - NumPy
-- Jupyter Notebook / VS Code
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- Visual Studio Code
+- Git / GitHub
 
 ---
 
@@ -40,4 +44,3 @@ Learn to handle numerical data efficiently and prepare for data analysis and dat
 
 - Cada carpeta contiene ejercicios y ejemplos prácticos.
 - Notas personales se guardan en `notas.md`.
-- Mantener este README actualizado a medida que se avanza en el aprendizaje.
