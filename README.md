@@ -30,7 +30,7 @@ Learn to efficiently handle numerical and tabular data, visualize results, and b
 
 ## 🧰 Herramientas / Tools
 
-- Python 3.x
+- Python 3.13.9
 - NumPy
 - Pandas
 - Matplotlib
